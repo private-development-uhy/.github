@@ -1,12 +1,3 @@
----
-name: Bug report
-about: バグのissueを作成します
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## 概要
 バグの概要を記述してください。
 
